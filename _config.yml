@@ -17,3 +17,5 @@ github_username:  d3spi
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
